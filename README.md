@@ -1,4 +1,4 @@
-I’m currently learning C++ and Python.
+I’m currently learning rust.
 
 <!---
 MOONNIGHTX/MOONNIGHTX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
